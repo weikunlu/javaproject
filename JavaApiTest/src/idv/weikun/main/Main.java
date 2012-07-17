@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("start program");
 
 		System.out.println("starting....");
-		
+		System.out.println("modify by weikun....");
 	}
 
 }
